@@ -43,17 +43,18 @@ I enjoy building practical software projects and exploring how **AI, cybersecuri
 
 ## 🚀 Featured Projects
 
-### 🛡️ AI SOC Copilot
+### 🛡️ [AI SOC Copilot](https://github.com/fathima4521/AI-SOC-Copilot)
 
 AI-powered Security Operations Center Copilot built with **FastAPI, PostgreSQL, and Ollama**.
 
-### 📄 AI Resume Analyzer
+### 📄 [AI Resume Analyzer](https://github.com/fathima4521/AI-Resume-Analyzer)
 
-An AI-based application that analyzes resumes and identifies relevant skills and potential gaps.
+AI-based application that analyzes resumes and identifies relevant skills and potential gaps.
 
-### 📊 Smart Attendance System
+### 📊 [Smart Attendance System](https://github.com/fathima4521/Student-Attendance-System)
 
-A web-based attendance management system built using **Firebase**.
+Web-based attendance management system built using **Firebase**.
+
 
 ---
 
